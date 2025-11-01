@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "815cbd80336ad076",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd9045921b691c2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11c58718c6326ddc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "milestone1/born2beroot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "born2beroot"
+            }
+          },
+          {
+            "id": "50d55dfbc9b36ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "milestone1/ft_printf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ft_printf"
+            }
+          },
+          {
+            "id": "d4f49e4e5c975d8c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "765e23ecc194a8c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "980b0fb17a54bcd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "234526649246f64b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "9e5189ddd0fd04a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "048360fdcd11c226",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f8aa9a82ee685966",
+    "type": "split",
+    "children": [
+      {
+        "id": "765749a4ec3cf4e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44451ab306c3df51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "milestone1/born2beroot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "born2berootへのバックリンク"
+            }
+          },
+          {
+            "id": "55053e9ce6a9fa87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "milestone1/born2beroot.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "born2berootからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "001390b06cd540a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "490faf8f17e7fdc8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "milestone1/born2beroot.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "born2berootのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "11c58718c6326ddc",
+  "lastOpenFiles": [
+    "milestone1/get_next_line.md",
+    "milestone1/ft_printf.md",
+    "milestone0/libft.md",
+    "無題のファイル.canvas",
+    "Welcome.md",
+    "create a link.md",
+    "milestone1/born2beroot.md",
+    "b2bguide_files/script.js",
+    "b2bguide_files/js",
+    "b2bguide_files/e747439b92fdeddd.css",
+    "b2bguide_files/9ae8cfcf03d83fe9.css",
+    "b2bguide_files/90c2fc9ebe34971f.css",
+    "b2bguide_files/8cb7ecc03690398c.css",
+    "b2bguide_files/8c7837bed22017b9.css",
+    "b2bguide_files/6f9c76ee4cbe9884.css",
+    "b2bguide_files/30eb208c0d8de0bb.css",
+    "b2bguide_files/274ceba6bb6b634e.css"
+  ]
+}
