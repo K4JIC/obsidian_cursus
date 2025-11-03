@@ -33,10 +33,20 @@ readする際のバッファサイズはコンパイル時に決められる。
 
 - 更新規則
   ```c
-  void update(char **save, char *save);
+  void update(char **new_save, char *old_save);
   
   static char *save = (char *)malloc(1);
   update(&save, save);
   ```
   あむさん (intra : ayhirose) がやってたやつ。
   save を書き換えるために &save を渡して、更新前の save を free するために save を渡している。
+- 構造体の利用
+  ```c
+  typedef struct s_memory
+  {
+	  char *content;
+	  size_t len;
+  } t_memory;
+  ```
+  file内のNULL文字も出力したいから、NULLを終端文字として利用する文字列の考え方は使えない。代わりに生の配列を長さとセットで扱う。メンバlenがポインタ型ではないのでアロー演算子が使えず非常に扱いづらい。
+  アロー演算子はメンバの型を問わず使える。構造体自体がポインタ化されていればmemory->len = 0 のようにかける。
