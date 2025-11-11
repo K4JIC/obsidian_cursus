@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vim/syntaxcolor.md",
+                "file": "milestone1/get_next_line/反省.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "syntaxcolor"
+              "title": "反省"
             }
           }
         ],
@@ -186,13 +186,13 @@
   },
   "active": "8d728b0e83de06cb",
   "lastOpenFiles": [
+    "vim/syntaxcolor.md",
     "vim/plugin.md",
     "milestone1/get_next_line/反省.md",
     "milestone1/get_next_line/get_next_line.md",
     "milestone0/strign.h.md",
     "milestone0/libft.md",
     "milestone1/ft_printf.md",
-    "vim/syntaxcolor.md",
     "vim",
     "milestone1/get_next_line/メモリ領域.md",
     "milestone1/get_next_line/Pasted image 20251103203810.png",
