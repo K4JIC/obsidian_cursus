@@ -1,98 +1,55 @@
 {
   "main": {
-    "id": "815cbd80336ad076",
+    "id": "1a39645ba8dde102",
     "type": "split",
     "children": [
       {
-        "id": "bd9045921b691c2a",
+        "id": "40ad6a80f3297a93",
         "type": "tabs",
         "children": [
           {
-            "id": "d4f49e4e5c975d8c",
+            "id": "ae0e00368f6676bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "milestone1/born2beroot/4. BIOS各種設定.md",
+                "file": "2025-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. BIOS各種設定"
+              "title": "2025-11"
             }
           },
           {
-            "id": "3bab151397147dd0",
+            "id": "0be5bd93af3f8c0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "milestone1/born2beroot/5. sudoまわり.md",
+                "file": "マークダウン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. sudoまわり"
-            }
-          },
-          {
-            "id": "a9f33d14c9af0850",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "権限、ユーザー、グループ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "権限、ユーザー、グループ"
-            }
-          },
-          {
-            "id": "47a843f5bb13b8df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "memo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "memo"
-            }
-          },
-          {
-            "id": "2459fa9ccdd7f9af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "milestone1/get_next_line/反省.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "反省"
+              "title": "マークダウン"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "765e23ecc194a8c5",
+    "id": "37ee184bb6384c49",
     "type": "split",
     "children": [
       {
-        "id": "980b0fb17a54bcd2",
+        "id": "2ae7a1514e874029",
         "type": "tabs",
         "children": [
           {
-            "id": "234526649246f64b",
+            "id": "e30f5c6ccc1ccb75",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -105,7 +62,7 @@
             }
           },
           {
-            "id": "9e5189ddd0fd04a8",
+            "id": "fe34fec9f0dd0d15",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -122,7 +79,7 @@
             }
           },
           {
-            "id": "048360fdcd11c226",
+            "id": "588538b1c89ef76c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -138,20 +95,20 @@
     "width": 300
   },
   "right": {
-    "id": "f8aa9a82ee685966",
+    "id": "8837713d3f95a697",
     "type": "split",
     "children": [
       {
-        "id": "765749a4ec3cf4e2",
+        "id": "25b63de4790dc0be",
         "type": "tabs",
         "children": [
           {
-            "id": "44451ab306c3df51",
+            "id": "aa191e6894688565",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "milestone1/get_next_line.md",
+                "file": "2025-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,25 +118,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "get_next_lineへのバックリンク"
+              "title": "2025-11へのバックリンク"
             }
           },
           {
-            "id": "55053e9ce6a9fa87",
+            "id": "48528344ddef62da",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "milestone1/get_next_line.md",
+                "file": "2025-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "get_next_lineからのアウトゴーイングリンク"
+              "title": "2025-11からのアウトゴーイングリンク"
             }
           },
           {
-            "id": "001390b06cd540a4",
+            "id": "ba2f76d1364278e2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -194,18 +151,32 @@
             }
           },
           {
-            "id": "490faf8f17e7fdc8",
+            "id": "ee494321b4ad73ef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "db2c70f940227a38",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "milestone1/get_next_line.md",
+                "file": "2025-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "get_next_lineのアウトライン"
+              "title": "2025-11のアウトライン"
             }
           }
         ]
@@ -226,47 +197,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "2459fa9ccdd7f9af",
+  "active": "ae0e00368f6676bd",
   "lastOpenFiles": [
-    "milestone1/born2beroot/6. sudoまわり.md",
-    "milestone1/born2beroot/7. パスワードポリシー.md",
-    "milestone1/born2beroot/4. BIOS各種設定.md",
-    "milestone1/born2beroot/5. 権限、ユーザー、グループ.md",
-    "milestone1/born2beroot/0. born2beroot.md",
-    "subjects/b2b.en.subject ja.pdf",
-    "memo.md",
-    "milestone1/born2beroot/2. ストレージ、パーティション、ボリューム、マウント.md",
-    "milestone1/born2beroot/3. ディストリビューションの選択.md",
-    "milestone1/born2beroot/1. 仮想マシンとは.md",
-    "subjects/lsblk.png",
-    "subjects/bios-configure-the-package-manager.png",
-    "b2b.en.subject ja.pdf",
-    "b2b.en.subject.pdf",
-    "srcs/パーティション.png",
-    "vim/syntaxcolor.md",
-    "milestone1/get_next_line/反省.md",
-    "milestone1/get_next_line/メモリ領域.md",
-    "milestone1/get_next_line/get_next_line.md",
-    "srcs/Pasted image 20251103203810.png",
-    "srcs/ホスト.avif",
-    "srcs/コンテナ.avif",
-    "srcs/コンテナ型仮想化.avif",
-    "srcs/ハイパーバイザ型仮想化.avif",
-    "srcs/ホストOS型仮想化.avif",
-    "milestone0/strign.h.md",
-    "milestone0/libft.md",
-    "milestone1/ft_printf/ft_printf.md",
-    "srcs/ハイパーバイザ.avif",
-    "srcs",
-    "新しいフォルダー",
-    "milestone1/born2beroot",
-    "milestone1/ft_printf",
-    "vim/plugin.md",
-    "vim",
-    "milestone1/get_next_line",
-    "無題のファイル.canvas",
-    "Welcome.md",
-    "create a link.md",
-    "b2bguide_files/script.js"
+    "マークダウン.md",
+    "2025-11.md",
+    "Welcome.md"
   ]
 }
