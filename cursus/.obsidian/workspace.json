@@ -35,28 +35,18 @@
             "id": "896826b2aa236276",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "subjects/push_swapを理解するためのスライド.pdf"
+                "file": "review/check-sheet.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "push_swapを理解するためのスライド"
-            }
-          },
-          {
-            "id": "6e9b33932eedd5e7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "check-sheet"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,14 +194,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "6e9b33932eedd5e7",
+  "active": "896826b2aa236276",
   "lastOpenFiles": [
+    "subjects/push_swapを理解するためのスライド.pdf",
     "milestone1/born2beroot/6. sudo.md",
     "milestone1/born2beroot/1. 仮想マシンとは.md",
     "milestone1/born2beroot/script.md",
     "milestone1/born2beroot/8. UFW.md",
     "milestone1/born2beroot/b2bレビュー.md",
-    "subjects/push_swapを理解するためのスライド.pdf",
     "milestone1/born2beroot/memo.md",
     "review/check-sheet.md",
     "review",
